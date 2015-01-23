@@ -21,6 +21,7 @@
 		<module>spring-cloud-cluster-core</module>
 		<module>spring-cloud-cluster-zookeeper</module>
 		<module>spring-cloud-cluster-hazelcast</module>
+		<module>spring-cloud-cluster-redis</module>
 		<module>docs</module>
 	</modules>
 
